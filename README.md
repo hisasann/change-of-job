@@ -57,7 +57,23 @@ Linux Mint に asdf で Node.js をインストールする - Qiita - https://qi
 
 ## contentful使ってみる
 
-<script src="https://gist.github.com/hisasann/8b1277c117c28fbf1ed57b343690122a.js"></script>
+```javascript
+const contentful = require("contentful");
+const client = contentful.createClient({
+  // This is the space ID. A space is like a project folder in Contentful terms
+  space: "ra794i9t0yln",
+  // This is the access token for this space. Normally you get both ID and the token in the Contentful web app
+  accessToken: "U1Wffn5NIhptGsWKyliQCILCWpoaCjJK6mwJwYO_58g"
+});
+// This API call will request an entry with the specified ID from the space defined at the top, using a space-specific access token.
+client.getEntries()
+  .then((response) => console.log(response.items))
+  .catch(console.error)
+
+client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
+  .then((entry) => console.log(entry))
+  .catch(console.error)
+```
 
 ## Github Actions
 
