@@ -1,5 +1,9 @@
 # Change of job
 
+<p align="center">
+  <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png">
+</p>
+
 転職時に、時間を作って新しくやったことないことを学んでいっているログの記録です。
 
 ## Slack
