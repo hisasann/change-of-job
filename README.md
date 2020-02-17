@@ -4,7 +4,9 @@
   <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png">
 </p>
 
-転職時に、時間を作って新しくやったことないことを学んでいっているログの記録です。
+どうでもいいことですが、転職時せっかくなので、 MacBookPro を新調しました！😻
+
+そしてこちらは、転職時に、時間を作って新しくやったことを学んでいっているログの記録です。
 
 ## Slack
 
@@ -20,6 +22,7 @@ Workflow
 もう出来た。
 
 https なサイトから http のリクエストをしていたことや、
+
 適切な png 画像が配置されていないことが、原点となっていたので、こちらは解消した。
 
 ## React Native
@@ -31,6 +34,7 @@ https なサイトから http のリクエストをしていたことや、
 [React Native入門：ニュースアプリを作りながら覚えよう/Hooks対応 2020年版 | Udemy](https://www.udemy.com/course/react-native-first-step/)
 
 その後、こちらの Undemy を購入して初学者向け勉強をし始めました。
+
 内容は理解しやすく、 expo-cli を使う場合のメリット・デメリットが知れたのででかいです。
 
 ## React Hooks
@@ -86,12 +90,15 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 ## lemon-sour
 
 ✔もろもろバージョンアップ
+
 github actions 追加
 
 ## Gatsby
 
 1.Jekyll のブログから移行できるかためす
+
     * つらそうなので、なにかのページ netlify に使いたい
+    
 1.lemon-sour-fm に採用決定！
 
 ## neovim
