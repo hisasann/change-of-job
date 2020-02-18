@@ -96,7 +96,13 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 
 ## lemon-sour
 
+[lemon-sour.js](https://github.com/lemon-sour)
+
 - [x] もろもろバージョンアップ
+
+辛かったのが、 `mkdirp` がいつの間にか Promise を返すようになっていて、コールバックパターンではなくなっていたこと。
+
+これで、結構修正点が発生してしまったので、いったん古いバージョンで運用してみる。
 
 - [] github actions 追加
 
@@ -117,6 +123,14 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 [hisasann/lemon-sour-fm: lemon-sour-fm](https://github.com/hisasann/lemon-sour-fm)
 
 [All posts | lemon-Sour fm](https://lemon-sour-fm.netlify.com/)
+
+### 参考にしたいポッドキャスト
+
+[Rebuild - Podcast by Tatsuhiko Miyagawa](http://rebuild.fm/)
+
+[ポッドキャスト Export](https://export.fm/)
+
+[STILL RENDERING // スティレン • A podcast on Anchor](https://anchor.fm/stillrendering)
 
 ## neovim
 
