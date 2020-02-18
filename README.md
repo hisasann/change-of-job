@@ -4,7 +4,9 @@
   <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png">
 </p>
 
-どうでもいいことですが、転職時せっかくなので、 MacBookPro を新調しました！😻
+転職時せっかくなので、 MacBookPro を新調しました！😻
+
+16 インチは大きい！💻
 
 そしてこちらは、転職時に、時間を作って新しくやったことを学んでいっているログの記録です。
 
@@ -14,7 +16,7 @@
 
 ## hisasann.github.ioのPWA化
 
-- [] done
+- [x] done
 
 [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
 
@@ -24,15 +26,21 @@ https なサイトから http のリクエストをしていたことや、
 
 ## React Native
 
-✔ビルドの記事
+- [x] 初めてのビルドの記事を作成する
 
 [初めてのReactNative-ビルド編🍱 - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/13/first-time-react-native/)
 
-[React Native入門：ニュースアプリを作りながら覚えよう/Hooks対応 2020年版 | Udemy](https://www.udemy.com/course/react-native-first-step/)
+## React Native の入門 Udemy をやる
+
+[hisasann/news-app: React Native 入門 Udemy の写経用リポジトリ](https://github.com/hisasann/news-app)
+
+- [] 30%
 
 その後、こちらの Undemy を購入して初学者向け勉強をし始めました。
 
 内容は理解しやすく、 expo-cli を使う場合のメリット・デメリットが知れたのででかいです。
+
+[React Native入門：ニュースアプリを作りながら覚えよう/Hooks対応 2020年版 | Udemy](https://www.udemy.com/course/react-native-first-step/)
 
 ## React Hooks
 
@@ -46,21 +54,23 @@ https なサイトから http のリクエストをしていたことや、
 
 ## TypeScript
 
-知らないことをない状態へ
+- [x] package.json の npm モジュールアップデート
 
-〆package.json の npm モジュールアップデート
+[hisasann/typescript-study: study about frontend with TypeScript](https://github.com/hisasann/typescript-study)
 
-## asdf
+## asdfを使ってみる
 
-〆asdf-vm/asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more - https://github.com/asdf-vm/asdf
+asdf-vm/asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more - https://github.com/asdf-vm/asdf
 
 Linux Mint に asdf で Node.js をインストールする - Qiita - https://qiita.com/takeru08ma/items/c344dd3f6117c14d0fad
 
-〆node.js と java は asdf で入れた
+- [x] `node.js` と `java` は asdf で入れた
 
 [asdf-vmで各言語のバージョン管理をしてみた🧞‍♀️ - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/10/asdf-vm/)
 
-## contentful使ってみる
+## contentfulを使ってみる
+
+まだ使い所がうまくつかめていないが、ポッドキャストを始めたら音源が置いてあるパスとかを返す API とか作ってみようかな。
 
 ```javascript
 const contentful = require("contentful");
@@ -86,9 +96,9 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 
 ## lemon-sour
 
-✔もろもろバージョンアップ
+- [x] もろもろバージョンアップ
 
-github actions 追加
+- [] github actions 追加
 
 ## Gatsby
 
@@ -98,9 +108,19 @@ github actions 追加
     
 1.lemon-sour-fm に採用決定！
 
+## lemon-sour-fm（ポッドキャスト）
+
+**JAMstack** で netlify を使って、サイトだけ作った状態。
+
+まだ、記事とかは仮。
+
+[hisasann/lemon-sour-fm: lemon-sour-fm](https://github.com/hisasann/lemon-sour-fm)
+
+[All posts | lemon-Sour fm](https://lemon-sour-fm.netlify.com/)
+
 ## neovim
 
-〆最近やってなかったの neovim の環境を整備して、 README にまとめました。
+- [x] 最近やってなかったの neovim の環境を整備して、 README にまとめました。
 
 [hisasann/neovim](https://github.com/hisasann/neovim)
 
@@ -108,5 +128,3 @@ github actions 追加
 
 1. Macbook Air を娘に買う
 1. 3月にUSJ
-1. ディズニーランド
-1. としまえん
