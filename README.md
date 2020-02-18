@@ -10,16 +10,13 @@
 
 ## Slack
 
-Workflow
-〆フリープランではワークフロービルダーが使えなかった
+- [x] Workflow を試してみるが、フリープランではワークフロービルダーが使えなかった
 
 ## hisasann.github.ioのPWA化
 
-〆done
+- [] done
 
 [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
-
-もう出来た。
 
 https なサイトから http のリクエストをしていたことや、
 
@@ -109,7 +106,7 @@ github actions 追加
 
 ## 家族
 
-1. Macbook Air をさくらに買う。
+1. Macbook Air を娘に買う
 1. 3月にUSJ
 1. ディズニーランド
 1. としまえん
