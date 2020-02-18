@@ -138,6 +138,12 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 
 [hisasann/neovim](https://github.com/hisasann/neovim)
 
+## Googleパスワードマネージャーを整理する
+
+- [x] かなり不要なものをいまだに管理しているので削除した。
+
+[パスワード マネージャー](https://passwords.google.com/)
+
 ## 家族
 
 1. Macbook Air を娘に買う
