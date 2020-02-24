@@ -106,6 +106,16 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
 
 - [] github actions 追加
 
+## Next.js
+
+[lemon-sour.js](https://lemon-sourjs-site.netlify.com/)
+
+を
+
+Nuxt から Next.js に移行した。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">lemon-sour.js - <a href="https://t.co/1OG0ntsIor">https://t.co/1OG0ntsIor</a> のページを Nuxt から Next.js に移行してみた。<br>基本的には netlify が JAMstack してくれるから、 github に push するだけでデプロイされる。便利！🥋</p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1231879657865170945?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Gatsby
 
 1.Jekyll のブログから移行できるかためす
