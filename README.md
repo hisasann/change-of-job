@@ -84,7 +84,7 @@ Linux Mint に asdf で Node.js をインストールする - Qiita - https://qi
 
 これで、結構修正点が発生してしまったので、いったん古いバージョンで運用してみる。
 
-- [] github actions 追加
+- [ ] github actions 追加
 
 ### Next.jsを使ってみる
 
