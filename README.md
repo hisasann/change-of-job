@@ -1,7 +1,7 @@
 # Change of job
 
 <p align="center">
-  <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png">
+  <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png" width="50%">
 </p>
 
 転職時せっかくなので、 MacBookPro を新調しました！😻
@@ -12,11 +12,11 @@
 
 ## Slack
 
-- [x] Workflow を試してみるが、フリープランではワークフロービルダーが使えなかった
+- [x] Workflow を試してみるが、フリープランではワークフロービルダーが使えなかった。
 
 ## hisasann.github.ioのPWA化
 
-- [x] done
+- [x] 3つほどエラーが出てしまったが、解消したらうまくいきました。
 
 [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
 
@@ -28,9 +28,11 @@ https なサイトから http のリクエストをしていたことや、
 
 - [x] 初めてのビルドの記事を作成する
 
+何も考えず WebStorm から template を使って、ビルドまでした記録です。
+
 [初めてのReactNative-ビルド編🍱 - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/13/first-time-react-native/)
 
-## React Native の入門 Udemy をやる
+### React Native の入門 Udemy をやる
 
 [hisasann/news-app: React Native 入門 Udemy の写経用リポジトリ](https://github.com/hisasann/news-app)
 
@@ -42,21 +44,21 @@ https なサイトから http のリクエストをしていたことや、
 
 [React Native入門：ニュースアプリを作りながら覚えよう/Hooks対応 2020年版 | Udemy](https://www.udemy.com/course/react-native-first-step/)
 
+### React Native Web
+
+[necolas/react-native-web: React Native for Web](https://github.com/necolas/react-native-web)
+
 ## React Hooks
 
 ## GraphQL
 
 [apollographql/apollo-client: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server](https://github.com/apollographql/apollo-client)
 
-## React Native Web
-
-[necolas/react-native-web: React Native for Web](https://github.com/necolas/react-native-web)
-
 ## TypeScript
 
-- [x] package.json の npm モジュールアップデート
-
 [hisasann/typescript-study: study about frontend with TypeScript](https://github.com/hisasann/typescript-study)
+
+- [x] package.json の npm モジュールアップデート
 
 ## asdfを使ってみる
 
@@ -68,7 +70,45 @@ Linux Mint に asdf で Node.js をインストールする - Qiita - https://qi
 
 [asdf-vmで各言語のバージョン管理をしてみた🧞‍♀️ - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/10/asdf-vm/)
 
-## contentfulを使ってみる
+## Github Actions
+
+田村くんの本を買って写経
+
+## lemon-sour
+
+[lemon-sour.js](https://github.com/lemon-sour)
+
+- [x] もろもろバージョンアップ
+
+辛かったのが、 `mkdirp` がいつの間にか Promise を返すようになっていて、コールバックパターンではなくなっていたこと。
+
+これで、結構修正点が発生してしまったので、いったん古いバージョンで運用してみる。
+
+- [] github actions 追加
+
+### Next.jsを使ってみる
+
+[lemon-sour.js](https://lemon-sourjs-site.netlify.com/)
+
+を
+
+Nuxt から Next.js に移行した。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">lemon-sour.js - <a href="https://t.co/1OG0ntsIor">https://t.co/1OG0ntsIor</a> のページを Nuxt から Next.js に移行してみた。<br>基本的には netlify が JAMstack してくれるから、 github に push するだけでデプロイされる。便利！🥋</p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1231879657865170945?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+さらに、 Netlify でデプロイがされたときの通知として Discord にメッセージを出したかったので、
+
+[Zapier | The easiest way to automate your work](https://zapier.com/)
+
+を使ってみました。
+
+すごく簡単でした！
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[IFTTT: Every thing works better together](https://ifttt.com/) ライクですね。
+
+### contentfulを使ってみる
 
 まだ使い所がうまくつかめていないが、ポッドキャストを始めたら音源が置いてあるパスとかを返す API とか作ってみようかな。
 
@@ -90,39 +130,17 @@ client.getEntry('7gXAjvVRrjBMK4XbuJ8TVO')
   .catch(console.error)
 ```
 
-## Github Actions
+### [lemon-sour.js](https://lemon-sourjs-site.netlify.com/) のロゴのURLを返す部分で使ってみた
 
-田村くんの本を買って写経
-
-## lemon-sour
-
-[lemon-sour.js](https://github.com/lemon-sour)
-
-- [x] もろもろバージョンアップ
-
-辛かったのが、 `mkdirp` がいつの間にか Promise を返すようになっていて、コールバックパターンではなくなっていたこと。
-
-これで、結構修正点が発生してしまったので、いったん古いバージョンで運用してみる。
-
-- [] github actions 追加
-
-## Next.js
-
-[lemon-sour.js](https://lemon-sourjs-site.netlify.com/)
-
-を
-
-Nuxt から Next.js に移行した。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">lemon-sour.js - <a href="https://t.co/1OG0ntsIor">https://t.co/1OG0ntsIor</a> のページを Nuxt から Next.js に移行してみた。<br>基本的には netlify が JAMstack してくれるから、 github に push するだけでデプロイされる。便利！🥋</p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1231879657865170945?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[🥓 feat: add to get logo image from contentful · lemon-sour/lemon-sourjs-site@a160c5e](https://github.com/lemon-sour/lemon-sourjs-site/commit/a160c5ef071dd5dc9472c9150a44914beff9bb93#diff-e14ec8fd2b038fbccea5f8090d26ace4R2-R17)
 
 ## Gatsby
 
-1.Jekyll のブログから移行できるかためす
+Jekyll のブログから移行できるかためす。
 
     * つらそうなので、なにかのページ netlify に使いたい
     
-1.lemon-sour-fm に採用決定！
+lemon-sour-fm に採用決定！
 
 ## lemon-sour-fm（ポッドキャスト）
 
