@@ -36,7 +36,7 @@ https なサイトから http のリクエストをしていたことや、
 
 [hisasann/news-app: React Native 入門 Udemy の写経用リポジトリ](https://github.com/hisasann/news-app)
 
-- [] 30%
+- [ ] 50%
 
 その後、こちらの Undemy を購入して初学者向け勉強をし始めました。
 
@@ -198,4 +198,4 @@ lemon-sour-fm に採用決定！
 
 - [x] Macbook Air を娘に買う。
 
-- [] 3月にUSJ（コロナのため様子見）
+- [ ] 3月にUSJ（コロナのため様子見）
