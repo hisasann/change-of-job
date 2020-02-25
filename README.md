@@ -1,7 +1,7 @@
 # Change of job
 
 <p align="center">
-  <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.png" width="50%">
+  <img src="https://github.com/hisasann/change-of-job/blob/master/assets/macbookpro16.jpg" width="50%">
 </p>
 
 転職時せっかくなので、 MacBookPro を新調しました！😻
