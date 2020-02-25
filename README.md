@@ -172,7 +172,30 @@ lemon-sour-fm に採用決定！
 
 [パスワード マネージャー](https://passwords.google.com/)
 
+## ゲーム
+
+### 仁王
+
+- [x] クリアした。
+
+### 仁王2（まだ未発売）
+
+### BFV
+
+また久々にやり始めてる。
+
+一日30分ほどやってエイム力を高めてる。
+
+### ストリートファイターV（シーズン5）
+
+相変わらずガイルを使っているが、 KAGE が強くなったようなので、こちらもためしたい。
+
+[#9 [スト5] STREET FIGHTER V Guile Training Day - ダイブソニックサマーソルトキックキャンセルCA - YouTube](https://www.youtube.com/watch?v=l2j8YX5mOjE)
+
+[#10 [スト5] STREET FIGHTER V Guile Training Day - ダイブソニックVトリガーサマーソルトキックキャンセルCA - YouTube](https://www.youtube.com/watch?v=ndci6SVKPhA)
+
 ## 家族
 
-1. Macbook Air を娘に買う
-1. 3月にUSJ
+- [x] Macbook Air を娘に買う。
+
+- [] 3月にUSJ（コロナのため様子見）
