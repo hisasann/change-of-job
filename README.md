@@ -52,7 +52,7 @@ https なサイトから http のリクエストをしていたことや、
 
 ## GraphQL
 
-**apollo** を使ってクライアントサイドとサーバーサイド両方を軽めに実装してみました。 🚀 
+- [x] **apollo** を使ってクライアントサイドとサーバーサイド両方を軽めに実装してみました。 🚀 
 
 [hisasann/react-with-graphql: react-with-graphql using apollo-client](https://github.com/hisasann/react-with-graphql)
 
