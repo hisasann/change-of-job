@@ -146,7 +146,7 @@ Jekyll のブログから移行できるかためす。
     
 lemon-sour-fm に採用決定！
 
-## lemon-sour-fm（ポッドキャスト）
+### lemon-sour-fm（ポッドキャスト）
 
 **JAMstack** で netlify を使って、サイトだけ作った状態。
 
