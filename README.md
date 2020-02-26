@@ -52,7 +52,11 @@ https なサイトから http のリクエストをしていたことや、
 
 ## GraphQL
 
-[apollographql/apollo-client: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server](https://github.com/apollographql/apollo-client)
+**apollo** を使ってクライアントサイドとサーバーサイド両方を軽めに実装してみました。 🚀 
+
+[hisasann/react-with-graphql: react-with-graphql using apollo-client](https://github.com/hisasann/react-with-graphql)
+
+[hisasann/graphql-server: graphql-server using apollo-server](https://github.com/hisasann/graphql-server)
 
 ## TypeScript
 
