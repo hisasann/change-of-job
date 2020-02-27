@@ -48,8 +48,6 @@ https なサイトから http のリクエストをしていたことや、
 
 [necolas/react-native-web: React Native for Web](https://github.com/necolas/react-native-web)
 
-## React Hooks
-
 ## GraphQL
 
 - [x] **apollo** を使ってクライアントサイドとサーバーサイド両方を軽めに実装してみました。 🚀 
@@ -63,14 +61,6 @@ https なサイトから http のリクエストをしていたことや、
 [hisasann/typescript-study: study about frontend with TypeScript](https://github.com/hisasann/typescript-study)
 
 - [x] package.json の npm モジュールアップデート
-
-## asdfを使ってみる
-
-asdf-vm/asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more - https://github.com/asdf-vm/asdf
-
-Linux Mint に asdf で Node.js をインストールする - Qiita - https://qiita.com/takeru08ma/items/c344dd3f6117c14d0fad
-
-- [x] `node.js` と `java` は asdf で入れた
 
 [asdf-vmで各言語のバージョン管理をしてみた🧞‍♀️ - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/10/asdf-vm/)
 
@@ -164,13 +154,31 @@ lemon-sour-fm に採用決定！
 
 [STILL RENDERING // スティレン • A podcast on Anchor](https://anchor.fm/stillrendering)
 
-## neovim
+## Tools
+
+### asdfを使ってみる
+
+asdf-vm/asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more - https://github.com/asdf-vm/asdf
+
+Linux Mint に asdf で Node.js をインストールする - Qiita - https://qiita.com/takeru08ma/items/c344dd3f6117c14d0fad
+
+- [x] `node.js` と `java` は asdf で入れた
+
+### neovim
 
 - [x] 最近やってなかったの neovim の環境を整備して、 README にまとめました。
 
 [hisasann/neovim](https://github.com/hisasann/neovim)
 
-## Googleパスワードマネージャーを整理する
+### exa
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">`abbr -a la exa -l -a` でエイリアスきった。<br>これで `la` が少しキレイに表示される。<br><br>ogham/exa: A modern version of ‘ls’. - <a href="https://t.co/0Cju5xFLjb">https://t.co/0Cju5xFLjb</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232716411509673984?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">exa 入れたらこんな配色になっててかわいい！ <a href="https://t.co/hwSg82buwK">pic.twitter.com/hwSg82buwK</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232717833978560512?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[ogham/exa: A modern version of ‘ls’.](https://github.com/ogham/exa)
+
+### Googleパスワードマネージャーを整理する
 
 - [x] かなり不要なものをいまだに管理しているので削除した。
 
