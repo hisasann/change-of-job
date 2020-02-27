@@ -140,7 +140,9 @@ lemon-sour-fm に採用決定！
 
 **JAMstack** で netlify を使って、サイトだけ作った状態。
 
-まだ、記事とかは仮。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Netlify** にデプロイしたらその通知を **Discord** くるようにして、その繋ぎになってくれてるのが、 `zapier` ポチポチでいけたからほんと便利ー！
 
 [hisasann/lemon-sour-fm: lemon-sour-fm](https://github.com/hisasann/lemon-sour-fm)
 
