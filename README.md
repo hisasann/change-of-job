@@ -88,7 +88,7 @@ https なサイトから http のリクエストをしていたことや、
 
 Nuxt から Next.js に移行した。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">lemon-sour.js - <a href="https://t.co/1OG0ntsIor">https://t.co/1OG0ntsIor</a> のページを Nuxt から Next.js に移行してみた。<br>基本的には netlify が JAMstack してくれるから、 github に push するだけでデプロイされる。便利！🥋</p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1231879657865170945?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">lemon-sour.js - <a href="https://t.co/1OG0ntsIor">https://t.co/1OG0ntsIor</a> のページを Nuxt から Next.js に移行してみた。<br>基本的には netlify が JAMstack してくれるから、 github に push するだけでデプロイされる。便利！🥋</p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1231879657865170945?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote>
 
 さらに、 Netlify でデプロイがされたときの通知として Discord にメッセージを出したかったので、
 
@@ -98,7 +98,7 @@ Nuxt から Next.js に移行した。
 
 すごく簡単でした！
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote>
 
 [IFTTT: Every thing works better together](https://ifttt.com/) ライクですね。
 
@@ -140,7 +140,7 @@ lemon-sour-fm に採用決定！
 
 **JAMstack** で netlify を使って、サイトだけ作った状態。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zapier 便利だなー<br>Netlify to Discord にデプロイしたことを send するようにしてみたんだけど、ポチポチするだけで繋げられた。<br><br>Zapier | The easiest way to automate your work - <a href="https://t.co/8BN6294kj9">https://t.co/8BN6294kj9</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232158129695014912?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote>
 
 **Netlify** にデプロイしたらその通知を **Discord** くるようにして、その繋ぎになってくれてるのが、 `zapier` ポチポチでいけたからほんと便利ー！
 
@@ -174,9 +174,9 @@ Linux Mint に asdf で Node.js をインストールする - Qiita - https://qi
 
 ### exa
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">`abbr -a la exa -l -a` でエイリアスきった。<br>これで `la` が少しキレイに表示される。<br><br>ogham/exa: A modern version of ‘ls’. - <a href="https://t.co/0Cju5xFLjb">https://t.co/0Cju5xFLjb</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232716411509673984?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">`abbr -a la exa -l -a` でエイリアスきった。<br>これで `la` が少しキレイに表示される。<br><br>ogham/exa: A modern version of ‘ls’. - <a href="https://t.co/0Cju5xFLjb">https://t.co/0Cju5xFLjb</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232716411509673984?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">exa 入れたらこんな配色になっててかわいい！ <a href="https://t.co/hwSg82buwK">pic.twitter.com/hwSg82buwK</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232717833978560512?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">exa 入れたらこんな配色になっててかわいい！ <a href="https://t.co/hwSg82buwK">pic.twitter.com/hwSg82buwK</a></p>&mdash; hisasann@DJ lemon-Sour🍌 (@hisasann) <a href="https://twitter.com/hisasann/status/1232717833978560512?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote>
 
 [ogham/exa: A modern version of ‘ls’.](https://github.com/ogham/exa)
 
