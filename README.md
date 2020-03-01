@@ -24,6 +24,10 @@ https なサイトから http のリクエストをしていたことや、
 
 適切な png 画像が配置されていないことが、原点となっていたので、こちらは解消した。
 
+## hiassann.devドメイン取得
+
+[Netlifyとお名前.comとLet's Encryptでhttpsなサイト作る🍦 - DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/2020/02/28/.dev-netlify-lets-encrypt/)
+
 ## React Native
 
 - [x] 初めてのビルドの記事を作成する
