@@ -222,4 +222,4 @@ Linux Mint に asdf で Node.js をインストールする - Qiita - https://qi
 
 - [x] Macbook Air を娘に買う。
 
-- [ ] 3月にUSJ（コロナのため様子見）
+- [ ] 3月にUSJ（コロナのため行けなくなった🤢）
