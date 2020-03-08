@@ -70,7 +70,9 @@ https なサイトから http のリクエストをしていたことや、
 
 ## Github Actions
 
-田村くんの本を買って写経
+labeler を使ってみたが、自動的にプルリクエストにラベルがつくのはものすごくいいな。
+
+[Feature/example branch 2 by hisasann · Pull Request #6 · hisasann/github-actions-samples](https://github.com/hisasann/github-actions-samples/pull/6)
 
 ## lemon-sour
 
@@ -159,6 +161,12 @@ lemon-sour-fm に採用決定！
 [ポッドキャスト Export](https://export.fm/)
 
 [STILL RENDERING // スティレン • A podcast on Anchor](https://anchor.fm/stillrendering)
+
+## Pull Request
+
+ほんの少しになりそうだが、この期間中に出したプルリクエストをここに書いておく。
+
+[fix: change uses version from 2.0.1 to 2.0.0 in README.md by hisasann · Pull Request #35 · Decathlon/pull-request-labeler-action](https://github.com/Decathlon/pull-request-labeler-action/pull/35)
 
 ## Tools
 
